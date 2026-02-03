@@ -31,7 +31,7 @@ An innovative solution leveraging satellite imagery and machine learning to dete
 - Environmental impact assessment
 - Early warning systems for aquatic ecosystems
 
-**Tech Stack:** `Jupyter Notebook` | `Satellite Imagery` | `Machine Learning`
+**Tech Stack:** `Python` | `Satellite Imagery` | `Machine Learning`
 
 ---
 
@@ -54,6 +54,7 @@ An innovative solution leveraging satellite imagery and machine learning to dete
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![HyperView](https://img.shields.io/badge/HyperView-FF6600?style=for-the-badge&logo=altair&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
 
 ### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,7 +80,7 @@ An innovative solution leveraging satellite imagery and machine learning to dete
 
 ## Project History
 
-My journey began in 2019 exploring AI and tech, starting with pyaudio and gTTS for building voice bots. I dove deep into various tech domains, working with PyTorch, TensorFlow, OpenCV, and eventually CI/CD pipelines by 2023. 
+My journey began in 2019 exploring AI and tech, starting with PyAudio and gTTS for building voice bots. I dove deep into various tech domains, working with PyTorch, TensorFlow, OpenCV, and eventually CI/CD pipelines by 2023. 
 
 Since 2024, I've shifted focus to where technology meets real-world impact—**sustainability in civil and environmental engineering**. Combining my tech background with industry-grade tools like PLAXIS, GeoStudio, WaterGEMS, AutoCAD, STAAD.Pro, ANSYS, and HyperView, I'm working on solutions that matter for our planet's future.
 
