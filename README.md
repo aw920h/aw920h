@@ -31,7 +31,7 @@ An innovative solution leveraging satellite imagery and machine learning to dete
 - Environmental impact assessment
 - Early warning systems for aquatic ecosystems
 
-**Tech Stack:** `Python` | `Satellite Imagery` | `Machine Learning`
+**Tech Stack:** `Python` | `Satellite Imagery` 
 
 ---
 
