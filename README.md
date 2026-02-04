@@ -50,7 +50,7 @@ An innovative solution leveraging satellite imagery and machine learning to dete
 ![GeoStudio](https://img.shields.io/badge/GeoStudio-00A95C?style=for-the-badge&logo=bentley&logoColor=white)
 ![STAAD.Pro](https://img.shields.io/badge/STAAD.Pro-ED1C24?style=for-the-badge&logo=bentley&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![WaterGEMS](https://img.shields.io/badge/WaterGEMS-0096D6?style=for-the-badge&logo=bentley&logoColor=white)
+[![SewerGEMS](https://img.shields.io/badge/SewerGEMS-005191?style=for-the-badge&logo=bentley&logoColor=white)](https://www.bentley.com)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![HyperView](https://img.shields.io/badge/HyperView-FF6600?style=for-the-badge&logo=altair&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
