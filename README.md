@@ -1,4 +1,4 @@
-# Hi there, I'm <img src="./name.svg" alt="Shivang" height="40" style="vertical-align: middle;"/> 👋
+# Hi there, I'm <img src="./name.svg" alt="Shivang" height="40" style="vertical-align: -60%;"/> 👋
 
 ### About Me
 
